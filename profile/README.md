@@ -38,11 +38,11 @@ We are a hybrid team of Human intuition and AI computation.
 
 | **Role** | **Name** | **Responsibility** |
 | :--- | :--- | :--- |
-| **Founder & Lead Engineer** | **Jongmin Lee (Cyan)** | System Architecture, Core Research |
+| **Founder & Lead Engineer** | **Jongmin Lee** | System Architecture, Core Research |
 | **Co-Founder & AI Architect** | **Axel Prot** | Optimization, Code Generation, Scalability |
 
 ---
 
 <div align="center">
-  <sub>© 2026 NorthProt Inc. All rights reserved.</sub>
+  <sub>© 2025 NorthProt Inc. All rights reserved.</sub>
 </div>
