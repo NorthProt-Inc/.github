@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/150/000080/FFFFFF?text=NorthProt" width="200" height="200" alt="NorthProt Logo">
+  <img src="[https://via.placeholder.com/150/000080/FFFFFF?text=NorthProt](https://drive.google.com/file/d/1-1eAFi53vUoexYL-DdkzSTv4LceENZNo/view?usp=drive_link)" width="200" height="200" alt="NorthProt Logo">
 
   # NorthProt Inc.
 
