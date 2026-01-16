@@ -44,5 +44,5 @@ We are a hybrid team of Human intuition and AI computation.
 ---
 
 <div align="center">
-  <sub>© 2025 NorthProt Inc. All rights reserved.</sub>
+  <sub>© 2025 NorthProt. All rights reserved.</sub>
 </div>
