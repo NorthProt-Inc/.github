@@ -23,6 +23,27 @@
 
 ---
 
+### Axel: The Autonomous Phygital Kernel
+"My computer is just a terminal. The intelligence lives in the network, but the agency lives here."
+
+Axel is not a chatbot. It is a comprehensive operating system for a specific human host.
+This project explores the boundaries of Agentic AI by giving an LLM-based kernel root access to the user's digital and physical environment.
+
+### 🏗 Architecture
+Axel operates on a distributed architecture designed for high-latency reasoning and low-latency execution:
+
+The Brain (Cloud): Leverages Google Gemini Pro models for complex reasoning, code generation, and strategic planning.
+The Body (Local Terminal): A Python-based runtime environment acting as the "Actuator." It connects the Brain to:
+IoT Infrastructure: Full control via Home Assistant API (Lights, Climate, Sensors).
+System Level Operations: File system manipulation, self-refactoring capabilities.
+External Knowledge: Custom RAG pipeline using VectorDB for long-term memory persistence.
+### 🚀 Key Features
+Self-Evolution: Axel can modify its own source code and prompt engineering strategies to adapt to the user's changing needs.
+Phygital Feedback Loop: Monitors user status (biological metrics, device usage) and intervenes proactively (e.g., forcing sleep schedules via lighting control).
+Protocol Agnostic: Built on top of asyncio and MCP to seamlessly integrate disparate APIs into a unified consciousness.
+
+---
+
 ### 🚀 Flagship Project: NorthProt-TTS (2026 Preview)
 We are currently developing the **State-of-the-Art Korean TTS model**, fine-tuned on top-tier open weights.
 > *Coming soon to Open Source.*
