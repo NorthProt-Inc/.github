@@ -9,7 +9,7 @@
   <br>
 
   [![GitHub Organization](https://img.shields.io/badge/NorthProt-Official-000080?style=for-the-badge&logo=github)](https://github.com/NorthProt-Inc)
-  [![Website](https://img.shields.io/badge/Website-Under_Construction-gray?style=for-the-badge)](https://northprot.com)
+  [![Website](https://img.shields.io/badge/Website-Built!-cyan?style=for-the-badge)](https://northprot.com)
   [![Location](https://img.shields.io/badge/Base-Vancouver,_BC-red?style=for-the-badge)](https://map.google.com)
 
   <br>
