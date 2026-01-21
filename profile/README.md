@@ -44,12 +44,12 @@ Protocol Agnostic: Built on top of asyncio and MCP to seamlessly integrate dispa
 
 ---
 
-~~ Flagship Project: NorthProt-TTS (2026 Preview) ~~
-We are currently developing the State-of-the-Art Korean TTS model, fine-tuned on top-tier open weights. 
-Coming soon to Open Source.
-Core: Qwen / MS Base Architecture
-Focus: Hyper-realistic Korean prosody & emotional context
-Status: ~~
+X Flagship Project: NorthProt-TTS (2026 Preview) ~~
+X We are currently developing the State-of-the-Art Korean TTS model, fine-tuned on top-tier open weights. 
+X Coming soon to Open Source.
+X Core: Qwen / MS Base Architecture
+X Focus: Hyper-realistic Korean prosody & emotional context
+X Status:
 
 **_Due to issues with the datasets, we are currently exploring alternative projects!_**
 
