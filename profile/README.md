@@ -64,9 +64,6 @@ Coordinator (opus) → manages cycles, assigns tasks, merges
 
 Agents run in 20-minute cycles via systemd timer. See [`.axel-ops/`](.axel-ops/) for the operational infrastructure.
 
-## License
-
-[MIT](LICENSE)
 
 ---
 
