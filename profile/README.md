@@ -26,7 +26,6 @@
 <div align="center">
 
 <div align="center">
-
 # prot
 
 **Real-time voice conversation system with the Axel persona**
