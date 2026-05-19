@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/9a968b51-a00f-4230-9ad8-8dd42bd192a8" width="200" height="200" alt="NorthProt Logo">
+  <img src="https://github.com/user-attachments/assets/d193e29c-92e8-4680-b81a-175641136ad1" width="200" height="200" alt="NorthProt Logo">
 
   # NorthProt
 
