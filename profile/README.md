@@ -53,7 +53,7 @@ never saw.
 | 🧠 **Axel** | An autonomous agent with layered long-term memory, in Python and TypeScript. | ![internal](https://img.shields.io/badge/internal-555555?style=flat-square) |
 | ⌨️ **protly** | Write in Korean or English, send in English: a Chrome extension and an iPhone keyboard. | ![internal](https://img.shields.io/badge/internal-555555?style=flat-square) |
 | ☕ [**CodeProt**](https://codeprot.vercel.app) | A Java practice judge for intro programming courses. | ![live](https://img.shields.io/badge/live-0969da?style=flat-square) |
-| 🎓 [**brightspace-mcp**](https://github.com/cyanprot/brightspace-mcp) | An MCP server that connects Claude Code to D2L Brightspace. | ![open source](https://img.shields.io/badge/open_source-2ea44f?style=flat-square) |
+| 🎓 [**brightspace-mcp**](https://github.com/NorthProt-Inc/brightspace-mcp) | An MCP server that connects Claude Code to D2L Brightspace. | ![open source](https://img.shields.io/badge/open_source-2ea44f?style=flat-square) |
 
 ---
 
